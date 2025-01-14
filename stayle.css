@@ -1,0 +1,44 @@
+.wrapper{
+   width: 1440px; 
+   height: 0 auto;
+   max-width: 100%;
+}
+
+.item1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.item2{
+    width: 500px;
+    border: 2px solid ;
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+}
+.item3{
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 100px;
+
+}
+.item4{
+    border: 2px solid blanchedalmond;
+    display: flex;
+    align-items: center;
+    
+
+
+}
+.item5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: ;
+}
+.item6{
+    width: 500px;
+}
